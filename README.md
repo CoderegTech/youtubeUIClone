@@ -1,3 +1,9 @@
+# Youtube UI Clone using Reactjs and Tailwindcss
+![Screenshot from 2022-11-08 00-00-54](https://user-images.githubusercontent.com/98440814/200356751-f21c405c-c1f9-455d-b031-d4ab19407efc.png)
+![Screenshot from 2022-11-08 00-01-20](https://user-images.githubusercontent.com/98440814/200356770-ccdb1fdb-0600-4147-9205-2382bf4b66b8.png)
+![Screenshot from 2022-11-08 00-01-35](https://user-images.githubusercontent.com/98440814/200356772-94de7704-46e1-473b-9de0-e640a6af4bd5.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
