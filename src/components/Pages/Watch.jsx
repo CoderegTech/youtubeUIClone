@@ -86,9 +86,8 @@ const Watch = () => {
           <div className=" w-full h-[30vh] md:h-[70vh] bg-white ">
             <iframe
               className="w-full h-full"
-              src={`https://www.youtube.com/embed/${channelId}`}
+              src={`https://www.youtube.com/embed/${channelId}?autoplay=1`}
               title="YouTube video player"
-              frameBorder=""
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
             ></iframe>
