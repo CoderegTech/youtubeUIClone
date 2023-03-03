@@ -199,7 +199,7 @@ export const videos = [
       channelName: "Fireship",
       videoUrl: "https://www.youtube.com/watch?v=rIfdg_Ot-LI",
       thumbnail:
-        "https://i.ytimg.com/an_webp/rIfdg_Ot-LI/mqdefault_6s.webp?du=3000&sqp=CNafo5sG&rs=AOn4CLAwJMpr8gpYaC7KkPc7Gv1dMOwnZg",
+        "https://i.ytimg.com/vi/rIfdg_Ot-LI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxRpYWna4y8Ryw4mVv0NH9d4R3wg",
       length: "2:22",
       views: "283K",
       uploaded: "1 month ago",
@@ -228,13 +228,14 @@ export const videos = [
       channelName: "freeCodeCamp.org",
       videoUrl: "https://www.youtube.com/watch?v=EExSSotojVI",
       thumbnail:
-        "https://i.ytimg.com/an_webp/EExSSotojVI/mqdefault_6s.webp?du=3000&sqp=CKCuo5sG&rs=AOn4CLAWad90KglSyrNi6mjDOBDazx54WQ",
+        "https://i.ytimg.com/vi/ImtZ5yENzgE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARw1eKHCFBMclUE2fnXENH1Bg99w",
       length: "13:18:56",
       views: "62K",
-      uploaded: "10 days ago",
-      title: "Laravel in 100 Seconds",
+      uploaded: "3 years ago",
+      title:
+        "Laravel PHP Framework Tutorial - Full Course for Beginners (2019)",
       description: "",
-      subscribers: "6.65M",
+      subscribers: "7.33M",
       likes: "2.6K",
       dislike: 0,
       comments: [
@@ -255,7 +256,7 @@ export const videos = [
       channelName: "Tech with Tim",
       videoUrl: "https://www.youtube.com/watch?v=sxTmJE4k0ho",
       thumbnail:
-        "https://i.ytimg.com/an_webp/sxTmJE4k0ho/mqdefault_6s.webp?du=3000&sqp=CIa6o5sG&rs=AOn4CLD934mEXBxoY1iHrtyV9z3wwEfvvw",
+        "https://i.ytimg.com/vi/sxTmJE4k0ho/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4N2Hbulpnv512X7h6l7UWH0bLuQ",
       length: "6:21:13",
       views: "721K",
       uploaded: "2 years ago",
@@ -309,7 +310,7 @@ export const videos = [
       channelName: "Programming with Mosh",
       videoUrl: "https://www.youtube.com/watch?v=d56mG7DezGs",
       thumbnail:
-        "https://i.ytimg.com/an_webp/d56mG7DezGs/mqdefault_6s.webp?du=3000&sqp=CLq8o5sG&rs=AOn4CLADWqcW466WB0Cd3MgI5Cmu2M-6mg",
+        "https://i.ytimg.com/vi/d56mG7DezGs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp58c546g6epp5q2y8i2X2t5IUgQ",
       length: "1:04:27",
       views: "300K",
       uploaded: "5 months ago",

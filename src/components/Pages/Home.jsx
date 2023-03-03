@@ -90,10 +90,10 @@ const Home = () => {
                         <div
                           onClick={() => navigate(`/watch/${channelId}`)}
                           key={id}
-                          className="video-items w-[250px] grow lg:min-w-[300px]  cursor-pointer"
+                          className="video-items w-[250px] grow lg:max-w-[300px]  cursor-pointer"
                         >
                           {/* thumbnail */}
-                          <div className="relative w-full min-h-48 bg-secondary rounded-xl overflow-hidden">
+                          <div className="relative w-full max-h-48 bg-secondary rounded-xl overflow-hidden shrink-0">
                             <img
                               className="w-full h-full object-cover"
                               src={thumbnail}
@@ -162,10 +162,10 @@ const Home = () => {
                         <div
                           onClick={() => navigate(`/watch/${channelId}`)}
                           key={id}
-                          className="video-items w-[250px] grow lg:min-w-[300px]  cursor-pointer"
+                          className="video-items w-[250px] grow lg:max-w-[300px]  cursor-pointer"
                         >
                           {/* thumbnail */}
-                          <div className="relative w-full min-h-48 bg-secondary rounded-xl overflow-hidden">
+                          <div className="relative w-full max-h-48 bg-secondary rounded-xl overflow-hidden shrink-0">
                             <img
                               className="w-full h-full object-cover"
                               src={thumbnail}
